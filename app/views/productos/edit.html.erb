@@ -1,0 +1,11 @@
+<h1>Editar Producto</h1>
+
+<%= render "form", producto: @producto %>
+
+<br>
+
+<div>
+  <%= link_to "Mostrar producto", @producto %> 
+  <%= button_to "Eliminar producto", @producto, method: :delete %> 
+  <%= link_to "Volver a productos", productos_path %>
+</div>
