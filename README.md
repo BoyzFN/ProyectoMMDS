@@ -1,24 +1,7 @@
-# README
+# Proyecto MMDS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hola, soy Jonathan Barraza y este es mi proyecto para la materia Modelos y métodos de Desarrollo de Software.
 
-Things you may want to cover:
+Esta es una aplicación web generada utilzando el framework Ruby on Rails.
+El objetivo de la página es demostrar una aplicación con capacidades CRUD.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
